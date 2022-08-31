@@ -1,7 +1,7 @@
 
 # LARAVEL TDD EXAMPLE USİNG PEST PHP
 
-- Only authenticated user can visit the post posts route
+- Only authenticated user can visit the posts routes
 - Validation when we store a new post.
 - Test post create form.
 - Test post index page.
