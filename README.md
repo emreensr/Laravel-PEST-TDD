@@ -7,5 +7,5 @@
 - Test post index page.
 - Test post update page.
 - Only users who own the blog post can delete it.
-- [PEST PHP](https://pestphp.com/).
-- [Laravel Policy](https://laravel.com/docs/9.x/authorization#policy-responses).
+- [PEST PHP](https://pestphp.com/)
+- [Laravel Policy](https://laravel.com/docs/9.x/authorization#policy-responses)
