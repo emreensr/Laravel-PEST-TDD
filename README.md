@@ -1,6 +1,9 @@
 
 # LARAVEL TDD EXAMPLE USİNG PEST PHP
 
+
+PEST aims to provide a better experience for writing tests.
+
 Using the test-driven approach, I built a simple CRUD application that allows you to create, edit, update and delete tasks.
 
 - Only authenticated user can visit the posts routes
