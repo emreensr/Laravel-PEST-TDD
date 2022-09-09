@@ -11,3 +11,6 @@ Using the test-driven approach, I built a simple CRUD application that allows yo
 - Only users who own the blog post can delete it.
 - [PEST PHP](https://pestphp.com/)
 - [Laravel Policy](https://laravel.com/docs/9.x/authorization#policy-responses)
+
+
+<img width="443" alt="Screen Shot 2022-09-09 at 19 42 25" src="https://user-images.githubusercontent.com/70320254/189399957-342dafa2-99fa-40bb-a855-e0c6cc5daaa2.png">
